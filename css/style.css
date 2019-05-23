@@ -1,0 +1,29 @@
+
+.clock{
+    width: 300px;
+    height: 300px;
+    border-color: white;
+    border-width: 1.3px;
+    border-style: solid;
+    color: aliceblue;
+    position: absolute;
+    top: 10%;
+    left: 70%;
+
+}
+
+#hora{
+    margin-top: 80px;
+}
+
+.image{
+
+    background-image: url("../img/image.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    margin: 0;
+    padding: 0;
+}
